@@ -1,12 +1,9 @@
 pandas
 numpy
-dill
 matplotlib
 ipykernel
 scikit-learn
-imbalanced-learn
 pyyaml
-lightgbm
 seaborn
 dvc
 mlflow<3
@@ -14,7 +11,7 @@ dagshub
 flask
 joblib
 python-box==6.0.2
-ensure==1.0.2
+ensure
 tqdm
 types-pyyaml
 flask-cors

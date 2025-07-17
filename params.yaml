@@ -1,0 +1,9 @@
+## model training parameters
+
+data_params:
+  test_ratio: 0.2
+  random_state: 42
+
+ElasticNet:
+  alpha: 0.2
+  l1_ratio: 0.1

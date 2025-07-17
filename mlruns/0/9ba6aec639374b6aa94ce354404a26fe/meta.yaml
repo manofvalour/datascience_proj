@@ -1,0 +1,15 @@
+artifact_uri: file:///home/eman/Desktop/DataScience_proj/mlruns/0/9ba6aec639374b6aa94ce354404a26fe/artifacts
+end_time: 1752742835828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ba6aec639374b6aa94ce354404a26fe
+run_name: amazing-gull-92
+run_uuid: 9ba6aec639374b6aa94ce354404a26fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752742823577
+status: 3
+tags: []
+user_id: eman

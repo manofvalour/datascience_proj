@@ -1,0 +1,15 @@
+artifact_uri: file:///home/eman/Desktop/DataScience_proj/mlruns/0/86ad908660094d2c9f4e5c28b91054d4/artifacts
+end_time: 1752740825182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86ad908660094d2c9f4e5c28b91054d4
+run_name: unique-asp-184
+run_uuid: 86ad908660094d2c9f4e5c28b91054d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752740815803
+status: 3
+tags: []
+user_id: eman
